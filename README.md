@@ -12,20 +12,20 @@ This NIH Chest X-ray Dataset is comprised of 112,120 X-ray images with disease l
 
 - The labels include 14 common thoracic pathologies:
 
-*Atelectasis*
-*Consolidation*
-*Infiltration*
-*Pneumothorax*
-*Edema*
-*Emphysema*
-*Fibrosis*
-*Effusion*
-*Pneumonia*
-*Pleural thickening*
-*Cardiomegaly*
-*Nodule*
-*Mass*
-*Hernia*
+ - Atelectasis
+ - Consolidation
+ - Infiltration
+ - Pneumothorax
+ - Edema
+ - Emphysema
+ - Fibrosis
+ - Effusion
+ - Pneumonia
+ - Pleural thickening
+ - Cardiomegaly
+ - Nodule
+ - Mass
+ - Hernia
 
 ## Dataset Contents
 - 112,120 frontal-view chest X-ray PNG images in 1024*1024 resolution (under images folder)
