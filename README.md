@@ -10,7 +10,7 @@ Chest X-ray exams are one of the most frequent and cost-effective medical imagin
 
 This NIH Chest X-ray Dataset is comprised of 112,120 X-ray images with disease labels from 30,805 unique patients with about 42 GB in size and might require GPU. To create these labels, the authors used Natural Language Processing to text-mine disease classifications from the associated radiological reports. The biggest limitation of this dataset is that image labels were NLP-extracted so there could be some erroneous labels but the NLP labeling accuracy is estimated to be >90%. The original radiology reports are not publicly available but you can find more details on the labeling process in this Open Access paper: "ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases." (Wang et al.).
 
-- The labels include 14 common thoracic pathologies:
+**The labels include 14 common thoracic pathologies:**
 
  - Atelectasis
  - Consolidation
